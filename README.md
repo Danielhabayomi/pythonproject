@@ -1,4 +1,4 @@
-# mypythonproject
+# Chinook Database Analysis
 Chinook Database Analysis using SQLite and Pandas
 
 Task 1: Analyzing Invoices by Country
