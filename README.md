@@ -21,5 +21,4 @@ before performing the time series analysis.
 
 Task 4: Sales Forecasting
 Using the time series data created in Task 3, apply any forecasting technique to
-predict the total sales for the next 6 months. You may use models like ARIMA,
-Exponential Smoothing, or any other suitable method for time-series forecasting
+predict the total sales for the next 6 months.
